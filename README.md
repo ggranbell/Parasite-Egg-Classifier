@@ -16,7 +16,7 @@
 
 ## 📖 Overview
 
-**Multi-Class Parasite Egg Classification** is a thesis-driven deep learning project that leverages the **ConvNeXt-Base** architecture with transfer learning to achieve high-accuracy classification of soil-transmitted helminth (STH) eggs from microscopy images. The system ships with a full scientific pipeline — from dataset preparation and model training, to evaluation, explainability (Grad-CAM), and a deployable Flask web interface — making it ready for both academic review and practical clinical screening use.
+**Multi-Class Parasite Egg Classification** is a  deep learning project that leverages the **ConvNeXt-Base** architecture with transfer learning to achieve high-accuracy classification of soil-transmitted helminth (STH) eggs from microscopy images. The system ships with a full scientific pipeline — from dataset preparation and model training, to evaluation, explainability (Grad-CAM), and a deployable Flask web interface — making it ready for both academic review and practical clinical screening use.
 
 ## ✨ Features
 
